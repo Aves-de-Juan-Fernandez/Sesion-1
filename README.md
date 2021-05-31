@@ -9,12 +9,12 @@ Como equipo abordaremos el tema general de aves de Juan Fernández no a total pr
 
 ### Roles observados del Equipo (de los cuales se sienten conformes)
 
-⋅⋅⋅[Valentina Altamirano](https://github.com/Vale-Altamirano) ilustración, investigación y programación.
+  [Valentina Altamirano](https://github.com/Vale-Altamirano) ilustración, investigación y programación.
 
-⋅⋅* [Annais Bertin](https://github.com/annais-bj) ilustración, investigación y redacción.
+[Annais Bertin](https://github.com/annais-bj) ilustración, investigación y redacción.
 
-⋅⋅* [Naomi Elkayam](https://github.com/nelkayam) ilustración, investigación y redacción.
+[Naomi Elkayam](https://github.com/nelkayam) ilustración, investigación y redacción.
 
-⋅⋅* [Rosa Enco](https://github.com/Rosa-Enco) ilustración análoga, investigación y programación.
+[Rosa Enco](https://github.com/Rosa-Enco) ilustración análoga, investigación y programación.
 
-⋅⋅* [Monserrat Vergara](https://github.com/monchiVergara) ilustración e investigación.
+[Monserrat Vergara](https://github.com/monchiVergara) ilustración e investigación.
