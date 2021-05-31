@@ -19,3 +19,15 @@ Como equipo abordaremos el tema general de aves de Juan Fernández no a total pr
 - [Rosa Enco](https://github.com/Rosa-Enco) ilustración análoga, investigación y programación.
 
 - [Monserrat Vergara](https://github.com/monchiVergara) ilustración e investigación.
+
+### Aspectos Fuertes:
+
+- Ilustración 
+
+- Investigación 
+
+- Redacción 
+
+### Aspectos Débiles: 
+
+- Programación 
