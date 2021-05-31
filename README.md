@@ -31,3 +31,14 @@ Como equipo abordaremos el tema general de aves de Juan Fernández no a total pr
 ### Aspectos Débiles: 
 
 - Programación 
+
+### Base de datos para investigación
+
+- [Categoría de Aves de Juan Fernandez](https://es.wikipedia.org/wiki/Categor%C3%ADa:Aves_del_archipi%C3%A9lago_Juan_Fern%C3%A1ndez)
+
+- [Nuevo plan busca evitar la extinción de las aves de Juan Fernández: se enfocará en especies exóticas, incendios, entre otras amenazas](https://laderasur.com/articulo/un-nuevo-plan-busca-evitar-la-extincion-de-las-aves-terrestres-de-juan-fernandez-se-enfocara-en-especies-exoticas-incendios-entre-otras-amenazas/)
+
+- [Picaflor de Juan Fernández (70 observaciones de la especie): Repertorio de fotografías: Sephanoides fernandensis](https://ebird.org/species/juffir1?siteLanguage=es_CL)
+
+
+
